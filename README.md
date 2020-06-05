@@ -30,3 +30,7 @@ Then publish your package by running on of the following
 
 - `npm publish`
 - `npm publish --access public`
+
+## LICENSE
+
+[MIT](https://github.com/jeremie-gauthier/npm-module-template/blob/master/LICENSE)
